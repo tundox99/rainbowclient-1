@@ -43,6 +43,7 @@
   "downloading_assets": "Baixando recursos",
   "downloading_fonts": "Baixando fontes",
   "downloading_languages": "Baixando idiomas",
-  "verifying_key": "Verificando autenticação"
-  "versions_empty": "Nenhuma versão encontrada."
+  "verifying_key": "Verificando autenticação",
+  "versions_empty": "Nenhuma versão encontrada.",
+  "settings_tab_credits": "Créditos"
 }
