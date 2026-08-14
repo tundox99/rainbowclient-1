@@ -63,5 +63,6 @@
   "downloading_assets": "TÃ©lÃ©chargement des ressources",
   "downloading_fonts": "TÃ©lÃ©chargement des polices",
   "downloading_languages": "TÃ©lÃ©chargement des langues",
-  "verifying_key": "VÃ©rification de l'authentification"
+  "verifying_key": "VÃ©rification de l'authentification",
+  "settings_tab_credits": "Crédits"
 }
