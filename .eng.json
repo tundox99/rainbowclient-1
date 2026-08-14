@@ -63,5 +63,6 @@
   "downloading_assets": "Downloading assets",
   "downloading_fonts": "Downloading fonts",
   "downloading_languages": "Downloading languages",
-  "verifying_key": "Verifying authentication"
+  "verifying_key": "Verifying authentication",
+  "settings_tab_credits": "Credits"
 }
