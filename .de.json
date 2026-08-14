@@ -64,7 +64,7 @@
   "downloading_fonts": "Schriftarten werden heruntergeladen",
   "downloading_languages": "Sprachen werden heruntergeladen",
   "verifying_key": "Authentifizierung wird Ã¼berprÃ¼ft"
-}  "settings_language": "Sprache",
+  "settings_language": "Sprache",
   "settings_apply": "Übernehmen",
   "settings_theme": "Design",
   "settings_account": "Konto",
@@ -73,6 +73,7 @@
   "downloading_assets": "Assets werden heruntergeladen",
   "downloading_fonts": "Schriften werden heruntergeladen",
   "downloading_languages": "Sprachen werden heruntergeladen",
-  "verifying_key": "Authentifizierung wird überprüft"
-  "versions_empty": "Keine Versionen gefunden."
+  "verifying_key": "Authentifizierung wird überprüft",
+  "versions_empty": "Keine Versionen gefunden.",
+  "settings_tab_credits": "Mitwirkende"
 }
